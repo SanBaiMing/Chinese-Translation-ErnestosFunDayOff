@@ -1,0 +1,31 @@
+{
+  //该翻译补丁有一处不生效。
+  "UIDictionary": {
+    "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!": "该死的！立刻给我滚去碎空星！！！",
+    "Texture_Turtle#Design, 3D Art, Animation": "Texture_Turtle#设计、3D美术、动画",
+    "Texture_Turtle#Design, Hearthian Dialogue": "Texture_Turtle#设计、哈斯对话",
+    "Texture_Turtle#Design, Implementation, Writing": "Texture_Turtle#设计、功能实现、文案撰写",
+    "Texture_Turtle#Playtesting": "Texture_Turtle#游戏测试",
+    "Outer Wilds Modding Discord#Special Thanks": "星际拓荒模组制作Discord社区#特别鸣谢",
+    "JohnCorby#Big help when doing code": "JohnCorby#编写代码时的重要协助者",
+
+    "Code 1": "代码1",
+    "Code 2": "代码2",
+    "Code 3": "代码3",
+    "Code 4": "代码4",
+    "Code 5": "代码5",
+    "UH OH SECRET": "哎呀 绝密内容", //不生效
+    "FUN Slider": "趣味滑块",
+    "FUN Button": "趣味按钮",
+    "FUN TIME YAYY:": "欢乐时刻 耶！：",
+    "No no bad very bad area!": "不不不 超危险的区域！",
+    "Typing Time!!!": "打字时间到！！！",
+
+    "CaveTwin": "洞穴双子",
+    "Void Land": "虚空之地",
+    "Ernesto's Reciving radio": "厄内斯托的接收电台",
+    "Ernesto's Brodcasting radio": "厄内斯托的广播电台",
+    "Ernesto FM Radio": "厄内斯托调频电台",
+    "There's a WACKY new Signal RIGHT HERE!!": "就在这里！出现了一个古怪的新信号！！"
+  }
+}
